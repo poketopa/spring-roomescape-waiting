@@ -1,7 +1,10 @@
 HELP.md
 .DS_Store
+.omx/
 /네오/
 /docs/feedback.md
+/docs/api/
+/docs/jpa/
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
